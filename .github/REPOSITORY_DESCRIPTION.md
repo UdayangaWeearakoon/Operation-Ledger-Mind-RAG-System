@@ -1,0 +1,1 @@
+A Retrieval-Augmented Generation (RAG) system that leverages AI to intelligently process and analyze operational ledger data. Built with Jupyter notebooks, this system combines the power of large language models with document retrieval techniques to provide insights and answers about operational records.
